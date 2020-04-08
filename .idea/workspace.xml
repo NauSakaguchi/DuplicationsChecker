@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="DuplicationsChecker" targetName="DuplicationsChecker" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc98f538-b690-43a1-9476-f4431606762a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="vq722j37" />
+  </component>
+  <component name="ProjectId" id="1aFcxoBt2UDTITeCBbutF5bkypd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DuplicationsChecker" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DuplicationsChecker" TARGET_NAME="DuplicationsChecker" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DuplicationsChecker" RUN_TARGET_NAME="DuplicationsChecker">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc98f538-b690-43a1-9476-f4431606762a" name="Default Changelist" comment="" />
+      <created>1586335031650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586335031650</updated>
+      <workItem from="1586335034206" duration="3470000" />
+      <workItem from="1586339522337" duration="775000" />
+      <workItem from="1586340911990" duration="117000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2966" height="505" key="GridCell.Tab.0.bottom" timestamp="1586341028799">
+      <screen x="0" y="0" width="3008" height="1692" />
+    </state>
+    <state width="2966" height="505" key="GridCell.Tab.0.bottom/0.0.3008.1692/3008.642.1680.1050@0.0.3008.1692" timestamp="1586341028799" />
+    <state width="2966" height="505" key="GridCell.Tab.0.center" timestamp="1586341028797">
+      <screen x="0" y="0" width="3008" height="1692" />
+    </state>
+    <state width="2966" height="505" key="GridCell.Tab.0.center/0.0.3008.1692/3008.642.1680.1050@0.0.3008.1692" timestamp="1586341028797" />
+    <state width="2966" height="505" key="GridCell.Tab.0.left" timestamp="1586341028797">
+      <screen x="0" y="0" width="3008" height="1692" />
+    </state>
+    <state width="2966" height="505" key="GridCell.Tab.0.left/0.0.3008.1692/3008.642.1680.1050@0.0.3008.1692" timestamp="1586341028797" />
+    <state width="2966" height="505" key="GridCell.Tab.0.right" timestamp="1586341028798">
+      <screen x="0" y="0" width="3008" height="1692" />
+    </state>
+    <state width="2966" height="505" key="GridCell.Tab.0.right/0.0.3008.1692/3008.642.1680.1050@0.0.3008.1692" timestamp="1586341028798" />
+    <state x="1226" y="483" width="556" height="722" key="refactoring.ChangeSignatureDialog" timestamp="1586336484743">
+      <screen x="0" y="0" width="3008" height="1692" />
+    </state>
+    <state x="1226" y="483" width="556" height="722" key="refactoring.ChangeSignatureDialog/0.0.3008.1692/3008.642.1680.1050@0.0.3008.1692" timestamp="1586336484743" />
+  </component>
+</project>
